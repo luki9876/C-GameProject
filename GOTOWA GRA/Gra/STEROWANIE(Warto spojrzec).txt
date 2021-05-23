@@ -1,0 +1,12 @@
+-----W menu--------
+
+góra - W
+dół -  S
+zatwierdzenie - Enter
+
+----- Gra --------
+skok  - W
+lewo  - A
+prawo - D
+strzal - Space
+
